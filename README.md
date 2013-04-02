@@ -1,4 +1,4 @@
 exsound
 =======
 
-a plugin of WOW play dota sound
+a plugin of Chinese version WOW play dota sound
