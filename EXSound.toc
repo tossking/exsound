@@ -1,0 +1,7 @@
+## Interface: 31000
+## Title: EXSound
+## Author: 喵喵，Holyelf
+## Notes: UT2004>>DotA>>WoW
+## Version: 3.0.2
+EXSound.lua
+EXSound.xml
